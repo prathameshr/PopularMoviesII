@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="sortOptions">
+        <item name="1">Sort by popularity</item>
+        <item name="2">Sort by rating</item>
+        <item name="3">Sort by favorites</item>
+    </string-array>
+    <string-array name="sortOptionsValues">
+        <item name="1">1</item>
+        <item name="2">2</item>
+        <item name="3">3</item>
+    </string-array>
+</resources>
